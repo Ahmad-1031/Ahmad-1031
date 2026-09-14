@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Ahmad-1031/Ahmad-1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm Ahmad, a 3rd Year Computing / Software Development student at MTU Kerry.</p>
 
-Here are some ideas to get you started:
+💻 **Aspiring Software Engineer** with an interest in **Automotive Software** and contributing to professional software environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Languages
+
+[![Languages](https://skillicons.dev/icons?i=html,css,js,php,java,cs,python)](https://skillicons.dev)
+
+## 🔧 Technologies & Tools
+
+[![Tools](https://skillicons.dev/icons?i=dotnet,vscode,idea)](https://skillicons.dev)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="45" height="45" alt="MariaDB"/>
+</p>
+
+
+
+## 🌱 Currently
+
+* 🎓 Studying Software Development at MTU Kerry
+* 💻 Developing my software engineering skills through academic and personal projects
+* 🚀 Looking to gain experience and contribute to a professional software environment
+
+## 📌 Projects
+
+
