@@ -1,17 +1,12 @@
-# Hi there 👋
+# About👋
 
-<p>I'm Ahmad, a 3rd Year Computing / Software Development student at MTU Kerry.</p>
+<p>I'm Ahmad, a 3rd Year Computing / Software Development student at MTU Kerry, aspiring to become a Software Engineer with an interest in Automotive Software and building real-world applications.</p>
 
-💻 **Aspiring Software Engineer** with an interest in **Automotive Software** and contributing to professional software environments.
+---
 
+## 🛠️ Tech Stack</h3>
 
-## 🛠️ Languages
-
-[![Languages](https://skillicons.dev/icons?i=html,css,js,php,java,cs,python)](https://skillicons.dev)
-
-## 🔧 Technologies & Tools
-
-[![Tools](https://skillicons.dev/icons?i=dotnet,vscode,idea)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,php,java,cs,python,dotnet,vscode,idea)](https://skillicons.dev)
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
@@ -20,12 +15,11 @@
 
 
 
-## 🌱 Currently
 
-* 🎓 Studying Software Development at MTU Kerry
-* 💻 Developing my software engineering skills through academic and personal projects
-* 🚀 Looking to gain experience and contribute to a professional software environment
+## 📌 Projects</h3>
 
-## 📌 Projects
+### [C# Library System](https://github.com/Ahmad-1031/LibraraySystem) -- <sub>A Library Management System developed for a 2nd Year Requirements Engineering project, featuring CRUD operations for Books, Members, Loans, and Fines, plus analysis functionality.</sub>
 
+### [Budget Tracker](https://github.com/Ahmad-1031/Budget_Tracker) -- <sub>A Budget Tracker created for my 2nd Year Client Side Scripting project in Semester 1, featuring user login, income and expenditure tracking, a timer, and a visual chart comparing income vs. expenses.</sub>
 
+### [Server Side Project](https://github.com/Ahmad-1031/Server_Side_Project_LibrarySys) -- <sub>A Library Management System developed with PHP and MariaDB, focusing on server-side programming, backend logic, database connectivity, and CRUD operations.</sub>
